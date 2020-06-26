@@ -1,0 +1,24 @@
+{
+  "name": "middizure",
+  "version": "0.0.1",
+  "description": "Azure Function middleware library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rafael.pol@protonmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.3",
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "jest": "^25.3.0"
+  },
+  "dependencies": {
+    "jwt-decode": "^2.2.0"
+  }
+}
